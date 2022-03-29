@@ -1,2 +1,4 @@
-# LibertyOS
-hardware wallet solution - 
+# SoverignOS
+Hardware wallet solution - 
+
+coming soon...
